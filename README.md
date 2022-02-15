@@ -1,5 +1,6 @@
 ## Team THG主页
 
+小组主页：[https://awesome-guys-in-ece1747.github.io/](https://awesome-guys-in-ece1747.github.io/)
 原模板地址：[https://github.com/mrxur/home](https://github.com/mrxur/home)
 
 ## 集成插件
